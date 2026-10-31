@@ -33,5 +33,3 @@ I'm a software engineer interested in building responsive web applications, solv
 - Email: hasnanh.7113@gmail.com
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/hasnan-husaini-46b943281/)
 - Portfolio: [Visit my portfolio](https://hasnanh.vercel.app/)
-
----
