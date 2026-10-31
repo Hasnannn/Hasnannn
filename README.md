@@ -1,35 +1,79 @@
-# Hi, I'm Hasnan Husaini 👋
+<h1 align="left">Hi, I'm Hasnan Husaini 👋</h1>
 
-🎓 Master's Student in Artificial Intelligence at Universitas Gadjah Mada
-🎓 Software Engineering Graduate from Telkom University  
-💻 Software Engineer | AI & Machine Learning
+<p>
+  🎓 Master's Student in Artificial Intelligence at Universitas Gadjah Mada (UGM)<br>
+  🎓 Software Engineering Graduate from Telkom University<br>
+  💻 Software Engineer | AI & Machine Learning
+</p>
 
-I'm a software engineer interested in building responsive web applications, solving technical problems, and exploring artificial intelligence. I enjoy learning new technologies and turning ideas into practical solutions.
+<p align="justify">
+  I'm a software engineer interested in building responsive web applications,
+  solving technical problems, and exploring artificial intelligence. I enjoy
+  learning new technologies and turning ideas into practical solutions.
+</p>
 
-### 🛠️ Languages & Technologies
+<h2>🛠️ Languages & Technologies</h2>
 
-**Languages**
-- JavaScript, TypeScript, PHP, Python
-- Go, C, C++, C#, Dart
-- HTML, CSS
+<h3>Languages</h3>
 
-**Frameworks & Libraries**
-- React, Next.js, Vue.js, Nuxt.js
-- Node.js, Tailwind CSS, Bootstrap, Pinia
+<p>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>PHP</code>
+  <code>Python</code>
+  <code>Go</code>
+  <code>C</code>
+  <code>C++</code>
+  <code>C#</code>
+  <code>Dart</code>
+  <code>HTML</code>
+  <code>CSS</code>
+</p>
 
-**Tools & Platforms**
-- Git, GitHub, GitLab
-- Docker, Linux, MySQL
-- Postman, Figma, Microsoft Office
+<h3>Frameworks & Libraries</h3>
 
-### 🌱 Currently Exploring
+<p>
+  <code>React</code>
+  <code>Next.js</code>
+  <code>Vue.js</code>
+  <code>Nuxt.js</code>
+  <code>Node.js</code>
+  <code>Tailwind CSS</code>
+  <code>Bootstrap</code>
+  <code>Pinia</code>
+</p>
 
-- Artificial Intelligence & Machine Learning
-- AI-powered applications
-- Software Engineering best practices
+<h3>Tools & Platforms</h3>
 
-### 📫 Connect with Me
+<p>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>GitLab</code>
+  <code>Docker</code>
+  <code>Linux</code>
+  <code>MySQL</code>
+  <code>Postman</code>
+  <code>Figma</code>
+  <code>Microsoft Office</code>
+</p>
 
-- Email: hasnanh.7113@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/hasnan-husaini-46b943281/)
-- Portfolio: [Visit my portfolio](https://hasnanh.vercel.app/)
+<h2>🌱 Currently Exploring</h2>
+
+<ul>
+  <li>Artificial Intelligence & Machine Learning</li>
+  <li>AI-powered Applications</li>
+  <li>Software Engineering Best Practices</li>
+</ul>
+
+<h2>📫 Connect with Me</h2>
+
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:hasnanh.7113@gmail.com">hasnanh.7113@gmail.com</a>
+  <br>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/hasnan-husaini-46b943281/">Connect with me</a>
+  <br>
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://hasnanh.vercel.app/">Visit my portfolio</a>
+</p>
