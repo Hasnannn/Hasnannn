@@ -1,7 +1,7 @@
-<h1 align="left">Hi, I'm Hasnan Husaini 👋</h1>
+<h1 align="left">Hi, I'm Hasnan Husaini</h1>
 
 <p>
-  🎓 Master's Student in Artificial Intelligence at Universitas Gadjah Mada (UGM)<br>
+  🎓 Master's Student in Artificial Intelligence at Universitas Gadjah Mada<br>
   🎓 Software Engineering Graduate from Telkom University<br>
   💻 Software Engineer | AI & Machine Learning
 </p>
